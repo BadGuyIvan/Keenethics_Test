@@ -1,0 +1,19 @@
+.time_line_container {
+    border-top-style: solid;
+    border-top-width: 1px;
+    .image_profile{
+        margin-top: 5px;
+    }
+    .context {
+        margin-top: 10px;
+        .user_name{
+            font-weight: bold;
+        }
+        .user_image{
+            margin-top: 5px;
+            margin-bottom: 5px;
+            max-width: 300px;
+            max-height: 300px;
+        }
+    }
+}
